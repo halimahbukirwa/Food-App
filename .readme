@@ -1,0 +1,6 @@
+app.py -entry point for our website
+initialize flask
+
+views.py - create routes
+
+Template Inheritance - Jinja
